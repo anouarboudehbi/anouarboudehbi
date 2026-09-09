@@ -9,7 +9,7 @@
 # Anouar BOUDEHBI
 ### Founder & Lead Engineer | Building Tech & AI Solutions for Social Impact 💻🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boudehbi-anouar)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/anwar.boudehbi.1)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212691046669)
 
@@ -64,6 +64,7 @@
 
 ## 📫 للتواصل والشراكات
 أنا دائماً منفتح على مناقشة فرص التعاون في المشاريع التقنية والريادية:
+* **LinkedIn:** [Anouar Boudehbi](https://www.linkedin.com/in/boudehbi-anouar)
 * **Facebook:** [Anwar Boudehbi](https://web.facebook.com/anwar.boudehbi.1)
 * **WhatsApp:** [+212 691-046669](https://wa.me/212691046669)
 
