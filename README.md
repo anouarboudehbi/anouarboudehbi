@@ -1,76 +1,90 @@
 <div align="center">
 
-<div align="center">
-  <img src="qatra.jpg" width="90" alt="Qatra" />
-  <img src="daba app.png" width="90" alt="Daba App" />
-  <img src="icon.ico" width="90" alt="Visiocode" />
-</div>
-
-# Anouar BOUDEHBI
-### Founder & Lead Engineer | Building Tech & AI Solutions for Social Impact 💻🚀
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boudehbi-anouar)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/anwar.boudehbi.1)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212691046669)
+<!-- Banner الرئيسي -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=220&section=header&text=Anouar%20Boudehbi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Ecosystem%20Architect%20&%20AI%20Systems%20Engineer&descSize=16&descAlignY=62&animation=fadeIn" width="100%" />
 
 <br>
 
-[![Qatra](https://img.shields.io/badge/Qatra-Healthcare-red?style=for-the-badge&logo=firebase&logoColor=white)](https://qatra.web.app)
-[![DabaApp](https://img.shields.io/badge/DabaApp-Logistics-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://dabaapp.web.app)
-[![Visiocode](https://img.shields.io/badge/Visiocode-AI--Agent-black?style=for-the-badge&logo=python&logoColor=white)](https://visiocodeaipro.github.io/visiocode-ai-pro)
+<!-- روابط التواصل الاجتماعي -->
+<p>
+  <a href="https://www.linkedin.com/in/boudehbi-anouar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://web.facebook.com/anwar.boudehbi.1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://wa.me/212691046669"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:contact@anouarboudehbi.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 </div>
 
 ---
 
-## 👋 من أنا؟
-مطور برمجيات ومبتكر حلول تقنية. أعمل على تحويل الأفكار المعقدة إلى منصات رقمية ذكية تخدم المجتمع؛ من اللوجستيات المحلية والتوصيل عبر **Daba App**، إلى دعم العمل التضامني والصحي عبر **Qatra App**. أجمع بين الهندسة المعمارية للتطبيقات والذكاء الاصطناعي لبناء حلول قابلة للتوسع.
+## ⚡ من أنا؟ (The Architect Profile)
+
+> **"تحويل التعقيد التكنولوجي إلى أنظمة ذكية تنبض بالحياة وتخدم المجتمع."**
+
+أنا **أنور بودهبي**، مهندس برمجيات ومصمم أنظمة بيئية (Ecosystem Architect) مقرّي في المغرب. أجمع بين هندسة البنى التحتية للتطبيقات الموزعة، تطوير الأنظمة عبر المنصات (Cross-Platform)، وتطبيقات الذكاء الاصطناعي المحلي (Local AI Agents). لا أكتب مجرد كود، بل أبني **منصات متكاملة** تحل مشاكل حقيقية في قطاعات اللوجستيات الذكية، الصحة العامة، والتكنولوجيا التضامنية ذات الأثر المستدام.
 
 ---
 
-## 🚀 محفظة المشاريع (Ecosystem)
+## 🚀 محفظة المنصات البيئية (Ecosystem Portfolio)
 
-### 🩸 Qatra App
-> **نظام متكامل للصحة واللوجستيك التضامني**
-* **الرؤية:** إحداث ثورة في الوصول للخدمات الصحية وتسهيل الحياة اليومية.
-* **الروابط:** [الموقع الرسمي](https://qatra.web.app) | [عن المؤسس](https://qatra.web.app/anouar.html)
-* **التقنيات:** `Kotlin` | `Firebase` | `Android`
+<div align="center">
 
-### 📍 Daba App
-> **الجيل الجديد لتوصيل القرب (Hyperlocal Delivery)**
-* **الهدف:** بناء شبكة لوجستية رقمية آمنة وذات كفاءة تشغيلية عالية.
-* **الموقع الرسمي:** [dabaapp.web.app](https://dabaapp.web.app)
-* **التقنيات:** `Mobile Dev` | `Cloud Architecture` | `Capacitor`
+| 🩸 Qatra App <br> <img src="https://raw.githubusercontent.com/anouarboudehbi/anouarboudehbi/main/qatra.jpg" width="75" style="border: 2px solid #ff4d4d; border-radius: 12px; padding: 3px; background: #0d1117;" /> | 📍 Daba App <br> <img src="https://raw.githubusercontent.com/anouarboudehbi/anouarboudehbi/main/daba%20app.png" width="75" style="border: 2px solid #3399ff; border-radius: 12px; padding: 3px; background: #0d1117;" /> | 🤖 Visiocode AI Pro <br> <img src="https://raw.githubusercontent.com/anouarboudehbi/anouarboudehbi/main/icon.ico" width="75" style="border: 2px solid #00ffcc; border-radius: 12px; padding: 3px; background: #0d1117;" /> |
+| :---: | :---: | :---: |
+| *الصحة واللوجستيات الإنسانية* | *جيل توصيل القرب الذكي* | *الوكيل الذكي والـ Local AI* |
+| [![Qatra](https://img.shields.io/badge/Qatra-Live_Platform-red?style=flat-square&logo=firebase&logoColor=white)](https://qatra.web.app) | [![DabaApp](https://img.shields.io/badge/DabaApp-Live_Platform-blue?style=flat-square&logo=googlemaps&logoColor=white)](https://dabaapp.web.app) | [![Visiocode](https://img.shields.io/badge/Visiocode-AI_Agent-black?style=flat-square&logo=python&logoColor=white)](https://visiocodeaipro.github.io/visiocode-ai-pro) |
+| نظام أساسي يربط بين المتبرعين والمنظومات الصحية لإدارة الطوارئ الطبية بكفاءة عالية. | شبكة لوجستية رقمية متقدمة لإدارة طلبات القرب وتوفير حلول توصيل مرنة وآمنة. | أداة ذكاء اصطناعي محلية مطورة لتسريع هندسة الأكواد وتوليد المنتجات الرقمية بسرعة فائقة. |
 
-### 🤖 Visiocode AI Pro
-> **الوكيل الذكي (Shadow Agent)**
-* **الميزة:** استخدام تقنيات الـ Local AI لتحويل الأفكار إلى منتجات رقمية بسرعة البرق.
-* **الموقع الرسمي:** [visiocodeaipro.github.io](https://visiocodeaipro.github.io/visiocode-ai-pro)
-* **التقنيات:** `Python` | `CustomTkinter` | `Ollama`
+</div>
 
 ---
 
-## 🛠 التكنولوجيا والمهارات
+## 🛠 الترسانة التقنية والمهارات (Tech Stack)
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Local LLMs](https://img.shields.io/badge/AI-Local%20LLMs-000000?style=flat-square&logo=openai&logoColor=white)
+<div align="center">
+
+### 📱 Mobile & Frontend
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+### 🧠 Backend, Cloud & AI
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Local LLMs](https://img.shields.io/badge/Local_LLMs-Ollama-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+### ⚙️ DevOps & Automation
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6200EE?style=for-the-badge&logo=make&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 للتواصل والشراكات
-أنا دائماً منفتح على مناقشة فرص التعاون في المشاريع التقنية والريادية:
+## 💡 فلسفتي في التطوير (Engineering Philosophy)
+
+<div align="center">
+
+| الهندسة المعمارية (Architecture) | الأثر المجتمعي (Social Impact) | السرعة والابتكار (Agility) |
+| :---: | :---: | :---: |
+| تصميم أنظمة قابلة للتوسع وموزعة بعناية فائقة. | تسخير التكنولوجيا لحل مشاكل حقيقية تواجه المجتمع. | استخدام أدوات الذكاء الاصطناعي المحلي لتسريع الإنتاج. |
+
+</div>
+
+---
+
+## 📫 لنبني المستقبل معاً
+أنا دائماً مستعد لمناقشة الفرص الريادية، الشراكات الاستراتيجية، أو التحديات الهندسية المعقدة:
 * **LinkedIn:** [Anouar Boudehbi](https://www.linkedin.com/in/boudehbi-anouar)
-* **Facebook:** [Anwar Boudehbi](https://web.facebook.com/anwar.boudehbi.1)
 * **WhatsApp:** [+212 691-046669](https://wa.me/212691046669)
 
 ---
 
 <div align="center">
-  <p><i>"بناء المستقبل، كوداً تلو الآخر."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=anouarboudehbi&style=flat-square&color=blue" alt="Visitor Count" />
+  <p><i>"بناء الأنظمة الذكية، كوداً تلو الآخر."</i></p>
+  <img src="https://komarev.com/ghpvc/?username=anouarboudehbi&style=for-the-badge&color=blue" alt="Visitor Count" />
 </div>
