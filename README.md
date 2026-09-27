@@ -4,7 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=220&section=header&text=Anouar%20Boudehbi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Ecosystem%20Architect%20&%20AI%20Systems%20Engineer&descSize=16&descAlignY=62&animation=fadeIn" width="100%" />
 
 <br>
-
 <!-- روابط التواصل الاجتماعي والملف الشخصي -->
 <p>
   <a href="https://fr.wikipedia.org/wiki/Utilisateur:Anouar_Boudehbi" target="_blank"><img src="https://img.shields.io/badge/Wikipedia-Profile-gray?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Wikipedia Profile"></a>
@@ -73,8 +72,14 @@
 ## 📫 لنبني المستقبل معاً
 
 أنا دائماً منفتح لمناقشة المشاريع الريادية، الشراكات الاستراتيجية، وحلول الأنظمة المعقدة:
+* **صفحة ويكيبيديا الرسمية:** [Utilisateur:Anouar Boudehbi](https://fr.wikipedia.org/wiki/Utilisateur:Anouar_Boudehbi)
+* **LinkedIn:** [Anouar Boudehbi](https://www.linkedin.com/in/boudehbi-anouar)
+* **WhatsApp:** [+212 691-046669](https://wa.me/212691046669)
+* **البريد الإلكتروني:** [contact@anouarboudehbi.dev](mailto:contact@anouarboudehbi.dev)
+
+---
 
 <div align="center">
   <p><i>"بناء الأنظمة الذكية، كوداً تلو الآخر."</i></p>
   <img src="https://komarev.com/ghpvc/?username=anouarboudehbi&style=for-the-badge&color=blue" alt="Visitor Count" />
-</div></div>
+</div>
